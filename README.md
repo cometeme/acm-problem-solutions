@@ -2,7 +2,7 @@
 
 > 这里记录了一个 ACMer 的成长历程。
 
-Hi, 这里是我的 ACM 题解博客。博客的链接是 [https://cometeme.tech/acm-problem-solutions](https://cometeme.tech/acm-problem-solutions) ，欢迎收藏。
+Hi, 这里是我的 ACM 题解博客。博客的链接是 [https://www.cometeme.tech/acm-problem-solutions](https://www.cometeme.tech/acm-problem-solutions) ，欢迎收藏。
 
 此博客主要记录了我在做 CodeForces, SPOJ, 洛谷等平台上的题目时的一些解题思路与算法。希望能够帮助大家更好地理解一些算法。
 
