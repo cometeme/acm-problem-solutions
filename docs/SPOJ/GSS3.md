@@ -1,5 +1,7 @@
 # GSS3 - Can you answer these queries III
 
+> time limit: 0.330s | memory limit: 1536mb
+
 You are given a sequence $A$ of $N$ ($N <= 50000$) integers between $-10000$ and $10000$. On this sequence you have to apply $M$ ($M <= 50000$) operations: 
 
 modify the $i-th$ element in the sequence or for given $x$ $y$ print $max\{Ai + Ai+1 + .. + Aj | x<=i<=j<=y \}$.
