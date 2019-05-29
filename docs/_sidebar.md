@@ -1,4 +1,5 @@
 -   CodeForces
+    -   [1144E. Median String](/CodeForces/1144E.md)
     -   [1151C. Problem for Nazar](/CodeForces/1151C.md)
 
 -   SPOJ
