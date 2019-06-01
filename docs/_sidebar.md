@@ -9,5 +9,5 @@
     -   [GSS3 - Can you answer these queries III](/SPOJ/GSS3.md)
 
 -   About me
-    -   [My blog](https://www.cometeme.tech)
+    -   [My technology blog](https://www.cometeme.tech)
     -   [My GitHub](https://github.com/cometeme)
