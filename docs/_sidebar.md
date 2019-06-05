@@ -4,6 +4,7 @@
     -   [1131F. Asya And Kittens](/CodeForces/1131F.md)
     -   [1144E. Median String](/CodeForces/1144E.md)
     -   [1151C. Problem for Nazar](/CodeForces/1151C.md)
+    -   [1165E. Two Arrays and Sum of Functions](/CodeForces/1165E.md)
 
 -   SPOJ
     -   [GSS1 - Can you answer these queries I](/SPOJ/GSS1.md)
