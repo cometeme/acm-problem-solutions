@@ -6,6 +6,7 @@
     -   [1151C. Problem for Nazar](/CodeForces/1151C.md)
     -   [1165E. Two Arrays and Sum of Functions](/CodeForces/1165E.md)
     -   [1172A. Nauuo and Cards](/CodeForces/1172A.md)
+    -   [1172B. Nauuo and Circle](/CodeForces/1172B.md)
     -   [1182C. Beautiful Lyrics](/CodeForces/1182C.md)
 
 -   SPOJ
