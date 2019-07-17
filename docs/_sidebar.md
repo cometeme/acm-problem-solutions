@@ -8,6 +8,7 @@
     -   [1172A. Nauuo and Cards](/CodeForces/1172A.md)
     -   [1172B. Nauuo and Circle](/CodeForces/1172B.md)
     -   [1182C. Beautiful Lyrics](/CodeForces/1182C.md)
+    -   [1182E. Product Oriented Recurrence](/CodeForces/1182E.md)
 
 -   SPOJ
     -   [GSS1 - Can you answer these queries I](/SPOJ/GSS1.md)
