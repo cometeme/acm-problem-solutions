@@ -12,6 +12,7 @@
     -   [1182D. Complete Mirror](/CodeForces/1182D.md)
     -   [1182E. Product Oriented Recurrence](/CodeForces/1182E.md)
     -   [1182F. Maximum Sine](/CodeForces/1182F.md)
+    -   [1194D. 1-2-K Game](/CodeForces/1194D.md)
     -   [1195D2. Submarine in the Rybinsk Sea (hard edition)](/CodeForces/1195D2.md)
 
 -   SPOJ
