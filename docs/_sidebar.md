@@ -16,6 +16,9 @@
     -   [1194D. 1-2-K Game](/CodeForces/1194D.md)
     -   [1195D2. Submarine in the Rybinsk Sea (hard edition)](/CodeForces/1195D2.md)
 
+-   POJ
+    -   [3579. Median](/POJ/3579.md)
+
 -   SPOJ
     -   [GSS1 - Can you answer these queries I](/SPOJ/GSS1.md)
     -   [GSS3 - Can you answer these queries III](/SPOJ/GSS3.md)
