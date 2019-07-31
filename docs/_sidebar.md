@@ -1,4 +1,5 @@
 -   CodeForces
+    -   [364B. Free Market](/CodeForces/364B.md)
     -   [891B. Gluttony](/CodeForces/891B.md)
     -   [939E. Maximize!](/CodeForces/939E.md)
     -   [1102E. Monotonic Renumeration](/CodeForces/1102E.md)
