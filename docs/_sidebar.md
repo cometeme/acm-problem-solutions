@@ -1,29 +1,30 @@
--   CodeForces
-    -   [364B. Free Market](/CodeForces/364B.md)
-    -   [891B. Gluttony](/CodeForces/891B.md)
-    -   [939E. Maximize!](/CodeForces/939E.md)
-    -   [1102E. Monotonic Renumeration](/CodeForces/1102E.md)
-    -   [1181D2. Coffee and Coursework (Hard Version)](/CodeForces/1118D2.md)
-    -   [1131F. Asya And Kittens](/CodeForces/1131F.md)
-    -   [1144E. Median String](/CodeForces/1144E.md)
-    -   [1151C. Problem for Nazar](/CodeForces/1151C.md)
-    -   [1154G. Minimum Possible LCM](/CodeForces/1154G.md)
-    -   [1165E. Two Arrays and Sum of Functions](/CodeForces/1165E.md)
-    -   [1172A. Nauuo and Cards](/CodeForces/1172A.md)
-    -   [1172B. Nauuo and Circle](/CodeForces/1172B.md)
-    -   [1182C. Beautiful Lyrics](/CodeForces/1182C.md)
-    -   [1182D. Complete Mirror](/CodeForces/1182D.md)
-    -   [1182E. Product Oriented Recurrence](/CodeForces/1182E.md)
-    -   [1182F. Maximum Sine](/CodeForces/1182F.md)
-    -   [1194D. 1-2-K Game](/CodeForces/1194D.md)
-    -   [1195D2. Submarine in the Rybinsk Sea (hard edition)](/CodeForces/1195D2.md)
+-  CodeForces
+   -   [364B. Free Market](/CodeForces/364B.md)
+   -   [891B. Gluttony](/CodeForces/891B.md)
+   -   [939E. Maximize!](/CodeForces/939E.md)
+   -   [1102E. Monotonic Renumeration](/CodeForces/1102E.md)
+   -   [1131F. Asya And Kittens](/CodeForces/1131F.md)
+   -   [1136D. Nastya Is Buying Lunch](/CodeForces/1136D.md)
+   -   [1144E. Median String](/CodeForces/1144E.md)
+   -   [1151C. Problem for Nazar](/CodeForces/1151C.md)
+   -   [1154G. Minimum Possible LCM](/CodeForces/1154G.md)
+   -   [1165E. Two Arrays and Sum of Functions](/CodeForces/1165E.md)
+   -   [1172A. Nauuo and Cards](/CodeForces/1172A.md)
+   -   [1172B. Nauuo and Circle](/CodeForces/1172B.md)
+   -   [1182C. Beautiful Lyrics](/CodeForces/1182C.md)
+   -   [1182D. Complete Mirror](/CodeForces/1182D.md)
+   -   [1182E. Product Oriented Recurrence](/CodeForces/1182E.md)
+   -   [1182F. Maximum Sine](/CodeForces/1182F.md)
+   -   [1194D. 1-2-K Game](/CodeForces/1194D.md)
+   -   [1181D2. Coffee and Coursework (Hard Version)](/CodeForces/1118D2.md)
+   -   [1195D2. Submarine in the Rybinsk Sea (hard edition)](/CodeForces/1195D2.md)
 
--   POJ
-    -   [3579. Median](/POJ/3579.md)
+-  POJ
+   -   [3579. Median](/POJ/3579.md)
 
--   SPOJ
-    -   [GSS1 - Can you answer these queries I](/SPOJ/GSS1.md)
-    -   [GSS3 - Can you answer these queries III](/SPOJ/GSS3.md)
+-  SPOJ
+   -   [GSS1 - Can you answer these queries I](/SPOJ/GSS1.md)
+   -   [GSS3 - Can you answer these queries III](/SPOJ/GSS3.md)
 
 -   About me
     -   [My technology blog](https://www.cometeme.tech)
