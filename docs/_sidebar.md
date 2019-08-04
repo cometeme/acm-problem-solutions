@@ -20,6 +20,7 @@
    -   [1195D2. Submarine in the Rybinsk Sea (hard edition)](/CodeForces/1195D2.md)
 
 -  POJ
+   -   [1700. Crossing River](/POJ/1700.md)
    -   [3579. Median](/POJ/3579.md)
 
 -  SPOJ
