@@ -3,6 +3,7 @@
    -   [891B. Gluttony](/CodeForces/891B.md)
    -   [939E. Maximize!](/CodeForces/939E.md)
    -   [1102E. Monotonic Renumeration](/CodeForces/1102E.md)
+   -   [1120C. Compress String](/CodeForces/1120C.md)
    -   [1131F. Asya And Kittens](/CodeForces/1131F.md)
    -   [1136D. Nastya Is Buying Lunch](/CodeForces/1136D.md)
    -   [1144E. Median String](/CodeForces/1144E.md)
