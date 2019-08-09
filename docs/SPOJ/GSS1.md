@@ -6,7 +6,7 @@ You are given a sequence $A[1], A[2], ..., A[N]$ . ( $|A[i]| \leq 15007$ , $1 \l
 
 A query is defined as follows: 
 
-$$Query(x,y) = max \{ a[i]+a[i+1]+...+a[j] ; x ≤ i ≤ j ≤ y \}$$
+$$Query(x,y) = max \{ a[i]+a[i+1]+...+a[j] ; x \leq i \leq j \leq y \}$$
 
 Given $M$ queries, your program must output the results of these queries.
 
@@ -26,14 +26,14 @@ Your program should output the results of the $M$ queries, one query per line.
 
 ##### Example
 
-Input:
+Input
 ```text
 3 
 -1 2 3
 1
 1 2
 ```
-Output:
+Output
 ```text
 2
 ```
