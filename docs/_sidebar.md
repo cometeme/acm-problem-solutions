@@ -29,7 +29,7 @@
 -  SPOJ
    -   [GSS1 - Can you answer these queries I](/SPOJ/GSS1.md)
    -   [GSS3 - Can you answer these queries III](/SPOJ/GSS3.md)
-   -   [](/SPOJ/GSS4.md)
+   -   [GSS4 - Can you answer these queries IV](/SPOJ/GSS4.md)
 
 -   About me
     -   [My technology blog](https://www.cometeme.tech)
