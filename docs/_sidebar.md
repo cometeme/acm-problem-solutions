@@ -20,6 +20,7 @@
    -   [1182E. Product Oriented Recurrence](/CodeForces/1182E.md)
    -   [1182F. Maximum Sine](/CodeForces/1182F.md)
    -   [1194D. 1-2-K Game](/CodeForces/1194D.md)
+   -   [1205B. Shortest Cycle](/CodeForces/1205B.md)
    -   [1207F. Remainder Problem](/CodeForces/1207F.md)
    -   [1181D2. Coffee and Coursework (Hard Version)](/CodeForces/1118D2.md)
    -   [1195D2. Submarine in the Rybinsk Sea (hard edition)](/CodeForces/1195D2.md)
