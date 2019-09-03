@@ -27,6 +27,9 @@
    -   [1208D. Restore Permutation](/CodeForces/1208D.md)
    -   [1208G. Polygons](/CodeForces/1208G.md)
 
+-  HDU
+   -   [6398. Pizza Hub](/HDU/6398.md)
+
 -  POJ
    -   [1700. Crossing River](/POJ/1700.md)
    -   [3579. Median](/POJ/3579.md)
