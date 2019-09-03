@@ -25,6 +25,7 @@
    -   [1205B. Shortest Cycle](/CodeForces/1205B.md)
    -   [1207F. Remainder Problem](/CodeForces/1207F.md)
    -   [1208D. Restore Permutation](/CodeForces/1208D.md)
+   -   [1208E. Let Them Slide](/CodeForces/1208E.md)
    -   [1208G. Polygons](/CodeForces/1208G.md)
 
 -  HDU
