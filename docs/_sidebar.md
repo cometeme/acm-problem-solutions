@@ -1,5 +1,6 @@
 -  CodeForces
    -   [165E. Compatible Numbers](/CodeForces/165E.md)
+   -   [241E. Flights](/CodeForces/241E.md)
    -   [364B. Free Market](/CodeForces/364B.md)
    -   [734E. Anton and Tree](/CodeForces/734E.md)
    -   [891B. Gluttony](/CodeForces/891B.md)
