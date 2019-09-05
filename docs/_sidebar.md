@@ -27,6 +27,7 @@
    -   [1208D. Restore Permutation](/CodeForces/1208D.md)
    -   [1208E. Let Them Slide](/CodeForces/1208E.md)
    -   [1208G. Polygons](/CodeForces/1208G.md)
+   -   [1213E. Two Small Strings](/CodeForces/1213E.md)
 
 -  HDU
    -   [6398. Pizza Hub](/HDU/6398.md)
