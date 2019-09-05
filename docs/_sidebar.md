@@ -35,6 +35,7 @@
    -   [6398. Pizza Hub](/HDU/6398.md)
 
 -  POJ
+   -   [1523. SPF](/POJ/1523.md)
    -   [1700. Crossing River](/POJ/1700.md)
    -   [3579. Median](/POJ/3579.md)
 
