@@ -1,4 +1,5 @@
 -  CodeForces
+   -   [8C. Looking for Order](/CodeForces/8C.md)
    -   [165E. Compatible Numbers](/CodeForces/165E.md)
    -   [241E. Flights](/CodeForces/241E.md)
    -   [364B. Free Market](/CodeForces/364B.md)
