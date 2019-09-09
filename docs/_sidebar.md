@@ -16,6 +16,7 @@
    -   [1131F. Asya And Kittens](/CodeForces/1131F.md)
    -   [1136D. Nastya Is Buying Lunch](/CodeForces/1136D.md)
    -   [1144E. Median String](/CodeForces/1144E.md)
+   -   [1147C. Thanos Nim](/CodeForces/1147C.md)
    -   [1150D. Three Religions](/CodeForces/1150D.md)
    -   [1151C. Problem for Nazar](/CodeForces/1151C.md)
    -   [1154G. Minimum Possible LCM](/CodeForces/1154G.md)
