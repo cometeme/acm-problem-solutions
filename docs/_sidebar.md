@@ -1,6 +1,7 @@
 -  CodeForces
    -   [3D. Least Cost Bracket Sequence](/CodeForces/3D.md)
    -   [5C. Longest Regular Bracket Sequence](/CodeForces/5C.md)
+   -   [6D. Lizards and Basements 2](/CodeForces/6D.md)
    -   [8C. Looking for Order](/CodeForces/8C.md)
    -   [60C. Mushroom Strife](/CodeForces/60C.md)
    -   [165E. Compatible Numbers](/CodeForces/165E.md)
