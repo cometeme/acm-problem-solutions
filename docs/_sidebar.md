@@ -36,6 +36,7 @@
    -   [1208D. Restore Permutation](/CodeForces/1208D.md)
    -   [1208E. Let Them Slide](/CodeForces/1208E.md)
    -   [1208G. Polygons](/CodeForces/1208G.md)
+   -   [1209E2. Rotate Columns (hard version)](/CodeForces/1209E2.md)
    -   [1213E. Two Small Strings](/CodeForces/1213E.md)
 
 -  HDU
