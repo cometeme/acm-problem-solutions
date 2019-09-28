@@ -37,6 +37,7 @@
    -   [1208E. Let Them Slide](/CodeForces/1208E.md)
    -   [1208G. Polygons](/CodeForces/1208G.md)
    -   [1209E2. Rotate Columns (hard version)](/CodeForces/1209E2.md)
+   -   [1209F. Koala and Notebook](/CodeForces/1209F.md)
    -   [1209G1. Into Blocks (easy version)](/CodeForces/1209G1.md)
    -   [1213E. Two Small Strings](/CodeForces/1213E.md)
 
