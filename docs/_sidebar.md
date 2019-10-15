@@ -1,4 +1,5 @@
 -  CodeForces
+   -   [2C. Commentator problem](/CodeForces/2C.md)
    -   [3D. Least Cost Bracket Sequence](/CodeForces/3D.md)
    -   [5C. Longest Regular Bracket Sequence](/CodeForces/5C.md)
    -   [6D. Lizards and Basements 2](/CodeForces/6D.md)
