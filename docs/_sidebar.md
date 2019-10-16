@@ -48,6 +48,7 @@
 
 -  CodeForces-Gym
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
+   -   [102253L. Limited Permutation](/CodeForces-Gym/102253L.md)
 
 -  HDU
    -   [6398. Pizza Hub](/HDU/6398.md)
