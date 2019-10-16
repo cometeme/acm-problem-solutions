@@ -46,6 +46,9 @@
    -   [1221E. Game With String](/CodeForces/1221E.md)
    -   [1228F. One Node is Gone](/CodeForces/1228F.md)
 
+-  CodeForces-Gym
+   -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
+
 -  HDU
    -   [6398. Pizza Hub](/HDU/6398.md)
 
