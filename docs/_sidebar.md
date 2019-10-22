@@ -47,6 +47,7 @@
    -   [1228F. One Node is Gone](/CodeForces/1228F.md)
    -   [1234F. Yet Another Substring Reverse](/CodeForces/1234F.md)
    -   [1236E. Alice and the Unfair Game](/CodeForces/1236E.md)
+   -   [1238E. Keyboard Purchase](/CodeForces/1238E.md)
 
 -  CodeForces-Gym
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
