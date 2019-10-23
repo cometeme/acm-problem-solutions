@@ -48,6 +48,7 @@
    -   [1234F. Yet Another Substring Reverse](/CodeForces/1234F.md)
    -   [1236E. Alice and the Unfair Game](/CodeForces/1236E.md)
    -   [1238E. Keyboard Purchase](/CodeForces/1238E.md)
+   -   [1239D. Catowice City](/CodeForces/1239D.md)
 
 -  CodeForces-Gym
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
