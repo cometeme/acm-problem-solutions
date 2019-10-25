@@ -45,6 +45,7 @@
    -   [1213E. Two Small Strings](/CodeForces/1213E.md)
    -   [1221E. Game With String](/CodeForces/1221E.md)
    -   [1228F. One Node is Gone](/CodeForces/1228F.md)
+   -   [1234E. Special Permutations](/CodeForces/1234E.md)
    -   [1234F. Yet Another Substring Reverse](/CodeForces/1234F.md)
    -   [1236E. Alice and the Unfair Game](/CodeForces/1236E.md)
    -   [1238E. Keyboard Purchase](/CodeForces/1238E.md)
