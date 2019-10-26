@@ -32,6 +32,7 @@
    -   [1182F. Maximum Sine](/CodeForces/1182F.md)
    -   [1194D. 1-2-K Game](/CodeForces/1194D.md)
    -   [1195D2. Submarine in the Rybinsk Sea (hard edition)](/CodeForces/1195D2.md)
+   -   [1204E. Natasha, Sasha and the Prefix Sums](/CodeForces/1204E.md)
    -   [1205B. Shortest Cycle](/CodeForces/1205B.md)
    -   [1207F. Remainder Problem](/CodeForces/1207F.md)
    -   [1208D. Restore Permutation](/CodeForces/1208D.md)
