@@ -45,6 +45,7 @@
    -   [1210D. Konrad and Company Evaluation](/CodeForces/1210D.md)
    -   [1213E. Two Small Strings](/CodeForces/1213E.md)
    -   [1221E. Game With String](/CodeForces/1221E.md)
+   -   [1225E. Rock Is Push](/CodeForces/1225E.md)
    -   [1228F. One Node is Gone](/CodeForces/1228F.md)
    -   [1234E. Special Permutations](/CodeForces/1234E.md)
    -   [1234F. Yet Another Substring Reverse](/CodeForces/1234F.md)
