@@ -61,6 +61,7 @@
    -   [102253L. Limited Permutation](/CodeForces-Gym/102253L.md)
 
 -  HDU
+   -   [5572. An Easy Physics Problem](/HDU/5572.md)
    -   [6398. Pizza Hub](/HDU/6398.md)
 
 -  Leetcode
