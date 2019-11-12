@@ -53,6 +53,7 @@
    -   [1238E. Keyboard Purchase](/CodeForces/1238E.md)
    -   [1238F. The Maximum Subtree](/CodeForces/1238F.md)
    -   [1239D. Catowice City](/CodeForces/1239D.md)
+   -   [1245E. Hyakugoku and Ladders](/CodeForces/1245E.md)
    -   [1249F. Maximum Weight Subset](/CodeForces/1249F.md)
    -   [1252K. Addition Robot](/CodeForces/1252K.md)
 
