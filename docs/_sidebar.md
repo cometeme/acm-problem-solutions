@@ -57,6 +57,7 @@
    -   [1245F. Daniel and Spring Cleaning](/CodeForces/1245F.md)
    -   [1249F. Maximum Weight Subset](/CodeForces/1249F.md)
    -   [1250C. Trip to Saint Petersburg](/CodeForces/1250C.md)
+   -   [1252E. Songwriter](/CodeForces/1252E.md)
    -   [1252K. Addition Robot](/CodeForces/1252K.md)
 
 -  CodeForces-Gym
