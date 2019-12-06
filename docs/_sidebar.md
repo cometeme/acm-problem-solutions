@@ -60,6 +60,7 @@
    -   [1252E. Songwriter](/CodeForces/1252E.md)
    -   [1252G. Performance Review](/CodeForces/1252G.md)
    -   [1252K. Addition Robot](/CodeForces/1252K.md)
+   -   [1253E. Antenna Coverage](/CodeForces/1253E.md)
 
 -  CodeForces-Gym
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
