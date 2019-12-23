@@ -66,6 +66,7 @@
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
    -   [102253L. Limited Permutation](/CodeForces-Gym/102253L.md)
    -   [102411B. Bad Treap](/CodeForces-Gym/102411B.md)
+   -   [102411H. High Load Database](/CodeForces-Gym/102411H.md)
 
 -  HDU
    -   [5572. An Easy Physics Problem](/HDU/5572.md)
