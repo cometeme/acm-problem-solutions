@@ -1,8 +1,8 @@
 import os
 
 content = '''-   About me
-    -   [ACM templates](https://www.cometeme.tech/algorithms-and-templates/)
-    -   [My technology blog](https://www.cometeme.tech)
+    -   [ACM templates](https://www.adelardcollins.com/algorithms-and-templates/)
+    -   [My technology blog](https://www.adelardcollins.com)
     -   [My GitHub](https://github.com/cometeme)
 '''
 

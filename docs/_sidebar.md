@@ -86,6 +86,6 @@
    -   [GSS4 - Can you answer these queries IV](/SPOJ/GSS4.md)
 
 -   About me
-    -   [ACM templates](https://www.cometeme.tech/algorithms-and-templates/)
-    -   [My technology blog](https://www.cometeme.tech)
+    -   [ACM templates](https://www.adelardcollins.com/algorithms-and-templates/)
+    -   [My technology blog](https://www.adelardcollins.com)
     -   [My GitHub](https://github.com/cometeme)
