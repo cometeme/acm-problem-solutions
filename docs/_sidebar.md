@@ -62,6 +62,7 @@
    -   [1252K. Addition Robot](/CodeForces/1252K.md)
    -   [1253E. Antenna Coverage](/CodeForces/1253E.md)
    -   [1284D. New Year and Conference](/CodeForces/1284D.md)
+   -   [1284E. New Year and Castle Construction](/CodeForces/1284E.md)
 
 -  CodeForces-Gym
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
