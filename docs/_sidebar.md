@@ -64,6 +64,7 @@
    -   [1253E. Antenna Coverage](/CodeForces/1253E.md)
    -   [1284D. New Year and Conference](/CodeForces/1284D.md)
    -   [1284E. New Year and Castle Construction](/CodeForces/1284E.md)
+   -   [1388D. Captain Flint and Treasure](/CodeForces/1388D.md)
 
 -  CodeForces-Gym
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
