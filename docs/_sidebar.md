@@ -68,6 +68,7 @@
    -   [1389F. Bicolored Segments](/CodeForces/1389F.md)
    -   [1421D. Hexagons](/CodeForces/1421D.md)
    -   [1421E. Swedish Heroes](/CodeForces/1421E.md)
+   -   [1485D. Multiples and Power Differences](/CodeForces/1485D.md)
    -   [1485F. Copy or Prefix Sum](/CodeForces/1485F.md)
 
 -  CodeForces-Gym
