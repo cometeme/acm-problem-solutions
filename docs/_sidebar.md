@@ -70,6 +70,7 @@
    -   [1421E. Swedish Heroes](/CodeForces/1421E.md)
    -   [1485D. Multiples and Power Differences](/CodeForces/1485D.md)
    -   [1485F. Copy or Prefix Sum](/CodeForces/1485F.md)
+   -   [1492D. Genius's Gambit](/CodeForces/1492D.md)
 
 -  CodeForces-Gym
    -   [102174L. 旅行的意义](/CodeForces-Gym/102174L.md)
